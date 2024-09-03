@@ -6,14 +6,18 @@ Welcome to the Android News App repository, an open-source project designed to d
 
 **Key Features:**
 Clean Architecture: Ensures separation of concerns, making your codebase more maintainable and scalable.
+
 MVVM Pattern: Utilizes the Model-View-ViewModel architecture for better state management and UI interaction.
+
 Retrofit Integration: Efficiently handles network operations for fetching the latest news using a fake news API.
+
 Dagger Hilt: Provides seamless dependency injection, enhancing modularity and reducing boilerplate code.
 
 **Why Use This Repository?**
 
 Free for All: This repository is open-source, allowing developers to pull, modify, and integrate this architecture into their projects at no cost.
-Best Practices: Follow industry standards with a clean and organized codebase that prioritizes maintainability and scalability.
+Best Practices: Follow industry standards with a clean, organized codebase that prioritizes maintainability and scalability.
+
 Community Support: Join a growing community of developers, share insights, and contribute to improving this architecture.
 Whether you're building a new project or refactoring an existing one, this repository offers a solid foundation to ensure your Android app is built with the best practices in mind.
 
